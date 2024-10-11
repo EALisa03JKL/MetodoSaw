@@ -1,0 +1,6 @@
+2,3              // Número de alternativas (ren) y criterios (col)
+1.2,2.5,3.1      // Alternativa 1
+4.2,1.7,2.9      // Alternativa 2
+0.4,0.3,0.3      // Pesos de los criterios
+Opcion1,Opcion2  // Nombres de las alternativas
+1,0,1            // Tipo de criterio (1 = maximizar, 0 = minimizar)
